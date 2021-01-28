@@ -1,0 +1,10 @@
+{
+  "name": "sticza.com",
+  "short_name": "sticza.com",
+  "description": "Ferenc Sticza - Embrace change with flexible technologies",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
